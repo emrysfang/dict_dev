@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dict>
+	<word>
+		<name>Apache</name>
+		<mean>web sever</mean>
+		<eg>Apache is a web server.</eg>
+	</word>
+	<word>
+		<name>Apache</name>
+		<mean>web sever</mean>
+		<eg>Apache is a web server.</eg>
+	</word>
+	<word>
+		<name>Apache</name>
+		<mean>web sever</mean>
+		<eg>Apache is a web server.</eg>
+	</word>
+	<word>
+		<name>Nginx</name>
+		<mean>also a web sever</mean>
+		<eg>Nginx is a also web server.</eg>
+	</word>
+<word><name>abandon</name><mean>verlassen/ aufgeben</mean><eg>He just abandoned her.</eg></word><word><name>abbreviation</name><mean>Abkurzung</mean><eg>this is the abbreviation of this artikle.</eg></word><word><name>king</name><mean>koenig</mean><eg>I am the king!</eg></word></dict>
